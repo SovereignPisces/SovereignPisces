@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Please do not touch my code. I am a slow programmer T__T */
+
+	
+body {
+    background-position: center;
+	background-repeat: no-repeat;
+	background-image: url(images/mermaid2.png);
+	background-size: contain;	
+}
+
+ h1 {
+ font-size: 20px; 
+ font-family:Sans-Serif; 
+ font-weight:100; 
+ color:grey; 
+ text-align:left;
+  } 
+
+h2 {
+font-size: 25px; 
+text-align:center; 
+font-family:Sans-Serif; 
+font-weight:100; 
+color:grey;
+  } 
+
+p {
+font-size: 25px; 
+text-align:center; 
+font-family:Sans-Serif; 
+font-weight:100; 
+color:grey;
+  } 
+  
+  p2 {
+  font-size: 
+  25px; text-align:center; 
+  font-family:Sans-Serif; 
+  font-weight:100; 
+  color:grey;
+  } 
+  
+  
+  ul {
+  font-size: 25px; 
+  text-align:center; 
+  font-family:Sans-Serif; 
+  font-weight:100; 
+  color:grey;
+  } 
+  
+  li {
+  font-size: 25px; 
+  text-align:center; 
+  font-family:Sans-Serif; 
+  font-weight:100; 
+  color:grey;
+  } 
+  
+
+img { max-width: 400px; 
+      }
+ 
+ table { border-color: #137C7F; 
+        border-style: ridge; }
